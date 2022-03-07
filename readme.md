@@ -749,6 +749,7 @@
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
+- [DFKI](https://github.com/Bengt/Awesome-DFKI)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
 - [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
